@@ -249,3 +249,7 @@ color: #fcac31;
     margin-top: 40px;
 
     }
+    #bottom_section > .bottom_content {
+        display: grid;
+        grid-template-columns: 30% 70%;
+        }

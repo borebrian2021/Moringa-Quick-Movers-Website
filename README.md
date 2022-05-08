@@ -1,19 +1,18 @@
-# Moringa School
+# Quick Movers
  ## By Brian Kimutai Koskei
 ## Screenshot
  ![image](./assets/images/screenshot.png)
  ## Table of Content
  - [Description](#description)
  - [Top Movers](#Top-movers)
- - [Movers Details](#Movers Details)
- - [Portfolio](#Portfolio)
+ - [Movers Details](#Movers-Details)
  - [Installation Process](#installation-Process)
  - [Live Link](#Live-Link)
  - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>TThis is the Quick Movers Company's website. The firm specializes in relocating household goods from one location to another. The website lists the top local swift movers and their contact information.</p>
+ <p>This is the Quick Movers Company's website. The firm specializes in relocating household goods from one location to another. The website lists the top local swift movers and their contact information.</p>
 
 ## Top movers
 This section tells more about the best household movers in town.
@@ -28,7 +27,7 @@ This section gives the contacts of the movers and some of their works.
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone git@github.com:borebrian2021/Moringa-Quick-Movers-Website.git
+* Clone to this repo : git clone git@github.com:borebrian2021/Moringa-Quick-Movers-Website.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****

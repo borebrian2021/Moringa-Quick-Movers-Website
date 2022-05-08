@@ -245,7 +245,7 @@ color: #fcac31;
 #bottom_section > .bottom_tittle > .hr{
     border-top: 1px solid #7c7975;
     height: 1px;
-    width: 80%;
+    width: 90%;
     margin-top: 40px;
 
     }
@@ -268,9 +268,23 @@ color: #fcac31;
         #bottom_section > .bottom_content> .links{
            display: grid;
            grid-template-columns: 33% 33% 33%;
-         }
+         
+        }
 
+        #bottom_section > .bottom_content> .links >.columns{
+            margin-top: 45px;
+        }
+        #bottom_section > .bottom_content> .links >.columns>p{
+            
+            color: rgb(194, 187, 187);
+            
+            font-size: smaller;
+            font-weight: 700;
+          }
          #bottom_section > .bottom_content> .links >.columns> .col-heading{
             
             color: white;
+            font-size: small;
+            font-weight: 700;
           }
+        

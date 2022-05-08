@@ -34,6 +34,7 @@ This section gives the contacts of the movers and some of their works.
  [Go Back to the top](#Screenshot)
 ### Live Link
 - Click this link to view the live application https://borebrian2021.github.io/Naturing-Africas-Tech-Talent/#Courses
+
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.

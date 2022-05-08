@@ -141,6 +141,7 @@ height: 3px;
     margin-top: 40px;
     padding-top: 110px;
     padding-left: 120px;
+    padding-bottom:50px ;
     background-color: #F5F5F5;
 }
 #body_section > .line{
@@ -171,7 +172,7 @@ height: 3px;
 
 #body_section > .images > .image1 >.section_text{
    width: 100%;
-   height:320px ;
+   ;
   
    background-color:#F5F5F5;
 
@@ -227,3 +228,9 @@ height: 3px;
 
 /* BOTTOM SECTION STYLES */
 /* ------------------------------------------------------------------------------------------------- */
+#bottom_section{
+padding-top: 50px;
+height: 170px;
+background-image: linear-gradient(to right, rgb(49, 49, 47),rgb(63, 61, 58),rgb(117, 102, 14));
+
+}

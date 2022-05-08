@@ -33,7 +33,7 @@ This section gives the contacts of the movers and some of their works.
  ****
  [Go Back to the top](#Screenshot)
 ### Live Link
-- Click this link to view the live application https://borebrian2021.github.io/Naturing-Africas-Tech-Talent/#Courses
+- Click this link to view the live application https://borebrian2021.github.io/Moringa-Quick-Movers-Website/
 
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.

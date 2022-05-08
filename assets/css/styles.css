@@ -229,8 +229,23 @@ height: 3px;
 /* BOTTOM SECTION STYLES */
 /* ------------------------------------------------------------------------------------------------- */
 #bottom_section{
+    padding-left: 120px;
+
 padding-top: 50px;
-height: 170px;
+height: 320px;
 background-image: linear-gradient(to right, rgb(49, 49, 47),rgb(63, 61, 58),rgb(117, 102, 14));
 
 }
+#bottom_section > .bottom_tittle >h2 {
+    color: white;
+    }
+#bottom_section > .bottom_tittle >h2 .yellow{
+color: #fcac31;
+}
+#bottom_section > .bottom_tittle > .hr{
+    border-top: 1px solid #7c7975;
+    height: 1px;
+    width: 80%;
+    margin-top: 40px;
+
+    }

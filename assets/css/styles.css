@@ -1,13 +1,27 @@
+
+*{
+    margin:0;
+}
 @font-face {
     font-family: poppins;
     src: url('../fonts/Poppins.ttf');
+  
 }
 body{
     font-family: poppins;
 }
+
+/* TOP SECTION STYLES */
+/* ------------------------------------------------------------------------------------------------- */
+
 #top_section{
+    height: 700px;
+    width: 100%;
    background-image: url('../images/background.png');
 padding-top: 40px;
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
 
 }
 #top_section > .nav{
@@ -67,4 +81,61 @@ padding-right: 180px;
     margin:15px 20px 15px 20px;
     color:#faff00;
     
+}
+#top_section > .welcome_text >h1{
+    color: #faff00;
+    margin-left: 70px;
+    font-size: 40px;
+}
+#top_section > .welcome_text >h3{
+    color: #ffffff;
+    margin-left: 70px;
+}
+
+
+/* MIDDLE SECTION STYLES */
+/* ------------------------------------------------------------------------------------------------- */
+#middle_section{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 35% 65%;
+}
+#middle_section > .text-s {
+    padding-top:80px;
+    padding-left:30px;
+    width: 100%;
+    /* padding-top: 30px; */
+}
+#middle_section > .image-s > img{
+    width: 95%;   
+    height: 400px; 
+}
+#middle_section > .text-s h1{
+    font-size: xx-large;
+}
+#middle_section > .text-s p{
+    color:rgb(63, 61, 61) ;
+}
+#middle_section > .text-s >.learn_more{
+    color:#faff00 ;
+    background-color: black;
+    padding: 12px;
+    border-top-right-radius: 10px;
+    border: none;
+    margin-top: 20px;
+}
+#middle_section > .text-s .line{
+    margin-bottom: 15px;
+background-image: linear-gradient(to right, rgb(219, 171, 13),rgb(192, 154, 83),rgb(97, 97, 11),rgb(102, 109, 43),rgb(87, 92, 71),rgb(0, 0, 0),rgb(0, 0, 0));
+/* background-size: 200% 100%; */
+/* background-color: red; */
+width: 130px;
+height: 3px;
+
+}
+
+/* BODDY SECTION STYLES */
+/* ------------------------------------------------------------------------------------------------- */
+#body_section > .line{
+
 }

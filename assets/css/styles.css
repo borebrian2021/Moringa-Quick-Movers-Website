@@ -290,3 +290,32 @@ color: #fcac31;
 
 
           /* PAGE TWO STYLES */
+/* ------------------------------------------------------------------------------------------------
+*/
+
+#detail_upper_section{
+    background-image: linear-gradient(to right, rgb(49, 49, 47),rgb(63, 61, 58),rgb(117, 102, 14));
+    height: 150px;
+}
+
+#detail_upper_section> .nav> .menus >.work{
+background-color:#fcac31;
+color: black;
+justify-content: center;
+align-items: center;
+height: 40px;
+padding: 3px;
+border-top-right-radius: 15px;
+}
+#detail_upper_section> .nav{
+    display: block !important;
+
+}
+#detail_upper_section> .nav> .s_line{
+    background-color:#9c9892;
+    width: 100%;
+    height: 5px;
+    
+   
+
+    }

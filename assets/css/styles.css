@@ -136,6 +136,90 @@ height: 3px;
 
 /* BODDY SECTION STYLES */
 /* ------------------------------------------------------------------------------------------------- */
+
+#body_section{
+    margin-top: 40px;
+    padding-top: 110px;
+    padding-left: 120px;
+    background-color: #F5F5F5;
+}
 #body_section > .line{
+    margin-bottom: 15px;
+    background-image: linear-gradient(to right, rgb(219, 171, 13),rgb(192, 154, 83),rgb(97, 97, 11),rgb(102, 109, 43),rgb(87, 92, 71),rgb(0, 0, 0),rgb(0, 0, 0));
+    /* background-size: 200% 100%; */
+    /* background-color: red; */
+    width: 130px;
+    height: 3px;
+}
+
+#body_section > .images{
+    display: grid;
+    padding-top: 100px;
+    width: 80%;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 20px;
+}
+#body_section > .images > .image1{
+    border-radius: 30px;
+   width: 100%;
+   height:320px ;
+   margin: 20px;
+   background-color: white;
+
 
 }
+
+#body_section > .images > .image1 >.section_text{
+   width: 100%;
+   height:320px ;
+  
+   background-color:#F5F5F5;
+
+
+}
+#body_section > .images > .image1 > .section_image > img{
+    width: 100%;
+    height:240px ;
+ 
+ }
+ #body_section > .images > .image1 > .section_text > .title {
+     background-color: white;
+     height: 40px;
+     margin-bottom: 2px;
+ }
+ #body_section > .images > .image1 > .section_text > .icons {
+    height: 40px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-gap: 2px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+
+}
+#body_section > .images > .image1 > .section_text > .icons >.icon_child,.icon_child_start, .icon_child_end{
+    height: 40px;
+    width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+    background-color: white;
+  
+
+}
+#body_section > .images > .image1 > .section_text > .icons >.icon_child_start{
+   border-bottom-left-radius: 30px;
+  
+
+}
+#body_section > .images > .image1 > .section_text > .icons >.icon_child_end{
+    border-bottom-right-radius: 30px;
+   
+ 
+ }
+ #body_section > .images > .image1 > .section_text > .title >h3{
+    margin: 15px;
+    width: 100%;
+    height:240px ;
+ color: rgb(77, 75, 75);
+ }

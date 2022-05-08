@@ -1,7 +1,27 @@
 @font-face {
     font-family: poppins;
-    src: url('/assets/fonts/Poppins.ttf');
+    src: url('../fonts/Poppins.ttf');
 }
 body{
     font-family: poppins;
+}
+#top_section{
+   
+
+}
+#top_section > .nav{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.nav > .logo > img{
+    height: 40px;
+}
+.nav  > .menus {
+padding-right: 180px;
+}
+.nav  > .menus a{
+    height: 40px;
+    text-decoration: none;
+    float: right;
+    margin:15px 20px 15px 20px;
 }

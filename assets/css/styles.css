@@ -25,8 +25,7 @@ background-position: center;
 
 }
 #top_section > .nav{
-    display: grid;
-    grid-template-columns: 30% 70%;
+ 
 }
 
 .nav > .logo > img{
@@ -288,3 +287,6 @@ color: #fcac31;
             font-weight: 700;
           }
         
+
+
+          /* PAGE TWO STYLES */

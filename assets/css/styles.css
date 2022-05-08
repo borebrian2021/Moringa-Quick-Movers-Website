@@ -253,3 +253,24 @@ color: #fcac31;
         display: grid;
         grid-template-columns: 30% 70%;
         }
+        #bottom_section > .bottom_content> .media {
+            display: flex;
+            padding-top:90px;
+            height: 200px;
+            /* background-color: red; */
+            justify-content:flex-start;
+            color: white;
+            text-align: left;
+        }
+        #bottom_section > .bottom_content> .media> i {
+           margin-left: 30px;
+        }
+        #bottom_section > .bottom_content> .links{
+           display: grid;
+           grid-template-columns: 33% 33% 33%;
+         }
+
+         #bottom_section > .bottom_content> .links >.columns> .col-heading{
+            
+            color: white;
+          }

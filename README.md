@@ -1,11 +1,11 @@
 # Moringa School
  ## By Brian Kimutai Koskei
 ## Screenshot
- ![image](./assets/images/week_one_project_none.png)
+ ![image](./assets/images/screenshot.png)
  ## Table of Content
  - [Description](#description)
- - [Courses](#Courses)
- - [Our Projects](#Our-projects)
+ - [Top Movers](#Top-movers)
+ - [Movers Details](#Movers Details)
  - [Portfolio](#Portfolio)
  - [Installation Process](#installation-Process)
  - [Live Link](#Live-Link)
@@ -13,10 +13,14 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This project is landing page website for Moringa school that shows details about the staff,courses and how to enroll to the school. It also has information about the projects done at Moiringa school, a portfolio section and an application button that enables users to send enroll to the school by online application.</p>
+ <p>TThis is the Quick Movers Company's website. The firm specializes in relocating household goods from one location to another. The website lists the top local swift movers and their contact information.</p>
 
-## Courses
-This section tells more about courses offered at moringa school.
+## Top movers
+This section tells more about the best household movers in town.
+[Go Back to the top](#Screenshot)
+
+## Movers Details
+This section gives the contacts of the movers and some of their works.
 [Go Back to the top](#Screenshot)
 
  ###  Requirements
@@ -24,7 +28,7 @@ This section tells more about courses offered at moringa school.
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone https://github.com/borebrian2021/Naturing-Africas-Tech-Talent.git
+* Clone to thir repo : git clone git@github.com:borebrian2021/Moringa-Quick-Movers-Website.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****

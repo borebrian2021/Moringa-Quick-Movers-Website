@@ -6,16 +6,35 @@ body{
     font-family: poppins;
 }
 #top_section{
-   
+   background-image: url('../images/background.png');
+padding-top: 40px;
 
 }
 #top_section > .nav{
     display: grid;
     grid-template-columns: 30% 70%;
 }
+
 .nav > .logo > img{
     height: 40px;
+    float: left;
+
+    margin: 20px;
 }
+.nav > .logo > p{
+   color: hsl(61, 100%, 50%);
+    margin:25px 0 0 10px;
+    float: left;
+
+  
+}
+.nav > .logo > p .big{
+    color: hsl(0, 0%, 100%) !important;
+    font-size: large;
+     float: left;
+ 
+   
+ }
 .nav  > .menus {
 padding-right: 180px;
 }
@@ -24,4 +43,28 @@ padding-right: 180px;
     text-decoration: none;
     float: right;
     margin:15px 20px 15px 20px;
+    color: white;
+    
+}
+.nav  > .menus .btn1{
+    background-color: #faff00;
+    padding: 5px;
+    height: 25px;
+    border-radius: 6px;
+    text-decoration: none;
+    float: right;
+    margin:15px 20px 15px 20px;
+    color: black;
+    
+}
+.nav  > .menus .btn2{
+    background-color: black;
+    padding: 5px;
+    height: 25px;
+    border-radius: 6px;
+    text-decoration: none;
+    float: right;
+    margin:15px 20px 15px 20px;
+    color:#faff00;
+    
 }
